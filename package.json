@@ -9,7 +9,7 @@
     "lint:fix": "eslint app/ --fix"
   },
   "dependencies": {
-    "@expo/vector-icons": "^5.2.0",
+    "@expo/vector-icons": "^4.0.0",
     "color": "^2.0.0",
     "moment": "^2.19.0",
     "prop-types": "^15.6.0",
